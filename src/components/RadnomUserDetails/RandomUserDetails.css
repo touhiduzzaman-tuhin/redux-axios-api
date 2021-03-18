@@ -1,0 +1,12 @@
+.random-user-details{
+    border: 1px solid lightgray;
+    padding: 10px;
+    margin : 10px;
+    box-shadow: 10xp 10px 40px gray;
+    border-radius: 10px;
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif
+}
+.random-user-details img{
+    border-radius: 50%;
+}
